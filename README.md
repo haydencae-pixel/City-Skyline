@@ -4,4 +4,4 @@ This project was built as part of [freeCodeCamp's Responsive Web Design certific
 
 ## Live Demo
 
-You can view the live demo of the project here: [Cafe Menu Demo](https://haydencae-pixel.github.io/City-Skyline/)
+You can view the live demo of the project here: [City Skyline Demo](https://haydencae-pixel.github.io/City-Skyline/)
